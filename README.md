@@ -26,6 +26,7 @@ Executez la commande la commande ``node server`` depuis le répertoire "backend"
 * [Node JS](https://nodejs.org) - Runtime JS
 * [Express JS](https://expressjs.com) - Framework Node.JS
 * [MongoDB](https://www.mongodb.com/fr-fr) - Système de gestion de bases de données
+* [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit
 
 ## Auteurs
 
